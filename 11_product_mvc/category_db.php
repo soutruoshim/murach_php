@@ -19,4 +19,5 @@
       $category_name = $category['categoryName'];
       return $category_name;
   }
+  
 ?>
